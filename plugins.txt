@@ -13,6 +13,8 @@ ghprb
 git
 github-pullrequest
 greenballs
+docker
+docker-workflow
 jenkins-multijob-plugin
 job-dsl
 junit
