@@ -5,4 +5,4 @@ COPY plugins.txt /usr/share/jenkins/ref/
 
 RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt
 
-USER jenkins
+USER root
