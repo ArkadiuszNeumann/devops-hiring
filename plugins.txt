@@ -7,14 +7,13 @@ cloudbees-folder
 configuration-as-code
 credentials-binding
 dashboard-view
+docker-workflow
 email-ext
 file-parameters
 ghprb
 git
 github-pullrequest
 greenballs
-docker
-docker-workflow
 jenkins-multijob-plugin
 job-dsl
 junit
